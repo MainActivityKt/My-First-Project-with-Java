@@ -1,6 +1,6 @@
 package calculator;
 
-class Main {
+class PricesPrinter {
     public static void main(String[] args) {
         StringBuilder text = new StringBuilder();
 
